@@ -1,19 +1,19 @@
 {
-    "Search": [
+    "sentences": [
         {
             "sentence": "A more recent innovation is vacuum distillation.",
             "toTurkish": "",
-            "level": "",
+            "level": ""
         },
         {
             "sentence": "A 4 x 4 vehicle is therefore highly recommended.",
             "toTurkish": "",
-            "level": "",
+            "level": ""
         }, 
         {
             "sentence": "A carefully worded limiting instruction was given.",
             "toTurkish": "",
-            "level": "",
+            "level": ""
         }
     ]
 }
