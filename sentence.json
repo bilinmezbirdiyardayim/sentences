@@ -1,472 +1,1882 @@
 {
-    "sentences": [
+    "sentences": [ 
         {
-            "sentence": "A more recent innovation is vacuum distillation.",
+            "sentence": "The eBay deal is a tier-1 endorsement for social commerce by an ecommerce giant.",
             "toTurkish": "",
             "level": ""
-        },
+        }, 
+        {
+            "sentence": "Donahue, for the record, is also an investor in car-sharing platform RelayRides.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "After an appeal, the 2007 value was set at $51,000, and his taxes were adjusted.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "Allen began his teaching career as an elementary school science teacher in 1995.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "During an interview Thursday, Stockstill did not name candidates for either job.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "However, that didn't necessarily translate into an equivalent financial success.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "This seemed to ignite an unholy fire fueled by political agendas empty of facts.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "An immediate rush of orange juice was administered to get sugar into his system.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "He was also given tickets for speeding and operating an uninsured motor vehicle. ",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "It was important to show that I'm an ice skater and insecure about my body, too.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "He was also given tickets for speeding and operating an uninsured motor vehicle.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "An inmate who fails boot camp returns to prison to complete his or her sentence.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "No, not anything to do with his winning an Olympic gold medal in figure skating.",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
+        {
+            "sentence": "",
+            "toTurkish": "",
+            "level": ""
+        }, 
         {
-            "sentence": "A 4 x 4 vehicle is therefore highly recommended.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A carefully worded limiting instruction was given.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A detailed packing list is provided following registration.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A simplified funds flow statement is shown below.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A further nine locations are currently being assessed.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A possible fourth factor affecting recurrence rate is viral type.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A small 'z' means little returned energy.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A morning workout has never been better!",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A wholesome pub lunch is served daily.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A separate water park offers family fun.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A more affirmative constitutional rationale deserves consideration.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A search through many alternative solutions is often required.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A full gourmet breakfast is served each morning.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A fascinating discussion is definitely worth comment.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A prayer is said before each meal.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A dog bites someone every forty seconds.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A 47% response rate was forthcoming.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A grounded theory qualitative study was attempted.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A second survey round has recently been completed.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A relaxed environment = more open communication.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A stainless steel high pressure flex hose broke loose.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A resident fishing license is $19.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A local volunteer moderates each local group.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A clearly marked reception desk is advisable.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A qualified individual should replace hammer handles.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A complete investment report is available upon written request.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A scientific theory must pass every test.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A blank gas cap door says 'interior release'.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A free monthly newspaper is available featuring regional writers.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A few minutes later complications began again.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A standardized application form makes direct comparisons much easier.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A rabbit being removed during night netting.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A common phenomenon among students where peer pressure is strong.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A single person without children gets 1 vote.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A pig being reared under intensive farming conditions.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A flat climax usually needs complete rewriting.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A twice weekly market is another attraction.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A different report claims investigators are privately saying eight.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A schedule 6 mixed gas diving bell.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The second alternative is state autonomy theory.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The increased food costs are affecting everybody.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The very oldest seeds were falling off.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The knowledge represented here is inherently dynamic.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The empirical evidence is decidedly less rosy.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The common opinion is here absolutely wrong.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The government s tax clause argument is similarly flawed.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The chest is deep without being broad.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The word global is central.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The number occurring has increased quite markedly since 1966.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The effect upon enemy communications was another matter.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The photos here represent visits during 2004.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The small spinner rotates sixty degrees every three generations.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The security environment inevitably shapes national security priorities.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The three countries represented here are three great democracies.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The performance lasts approximately 2 hours 50 minutes.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The variable capacitor is often connected incorrectly.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The longest operational link was 64 miles.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The room may serve multiple procedure rooms.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The indicative budget is 291 million euros.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The church had experienced tremendous growth despite intense persecution.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The program offered many teaching certificate courses.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The second attempt was far more successful.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The patriot act does destroy civil rights legally.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The civilian death toll has reached four figures.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The expression chemical substances is nonsensical.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The administrative inaction is being widely criticized.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The cost is $20 per person.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The technique therefore requires extremely sensitive methods.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The original track was 61 kilometres long.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The overwhelming cost culprit is labor costs.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The summer resort town setting is perfect.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The official number is around 70 hours.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The optional series key column must contain unique values.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The ending was very very very disappointing.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The private investigator had already admitted phone hacking.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The damages awarded were thus increased substantially.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The whole thing contains 700 000 parts.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The bike polo game was hotly contested.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The program is documented via source code comment statements.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The food there is greasy, I guess would be the main takeaway from that sentence.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "Vladimir Putin, Russia's prime minister, said he was bewildered by the sentence.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "I hope the RSPCA are going to appeal this sentence as this Magistrate has erred.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "A first-degree murder conviction carries a sentence of 20 to 60 years in prison.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "David Cowdery was given a two-year suspended sentence for conspiracy to defraud.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The man accused of the stabbing was given a death sentence and executed in 1995.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "They were given the seven-page document confirming his sentence six weeks later.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "I met him in his cell where he is serving a long sentence for trafficking women.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "I've barely got past the first sentence and already I'm doing the default sneer.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The would-be bomber, Vladimir Arutyunian, subsequently received a life sentence.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "Prosecutors are seeking a sentence of life in prison for the 18-year-old Conley.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The sentence was suspended, meaning it will likely be reduced to life in prison.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "Ebbers is now serving a 25-year sentence in a minimum-security Louisiana prison.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }, 
         {
-            "sentence": "The charges against him could result in a sentence of up to 150 years in prison.",
+            "sentence": "",
             "toTurkish": "",
             "level": ""
         }
