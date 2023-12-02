@@ -20060,5 +20060,216 @@
 			"toTurkish": "",
 			"level": ""
 		}
+
+
+		{
+			"id": 99999,
+			"sentence": "makale =     The storm posed a significant danger to coastal areas",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99998,
+			"sentence": "Crossing the road without looking both ways is a danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99997,
+			"sentence": "A sudden drop in temperature can create icy road dangers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99996,
+			"sentence": "Climbing steep mountains without proper gear is full of danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99995,
+			"sentence": "The warning signs indicated potential dangers ahead",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99994,
+			"sentence": "Venturing into the wilderness alone can be risky; it's a danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99993,
+			"sentence": "The toxic chemicals posed a danger to the surrounding environment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99992,
+			"sentence": "Ignoring safety protocols can lead to unnecessary dangers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99991,
+			"sentence": "The driver swerved to avoid the oncoming danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99990,
+			"sentence": "Exploring unfamiliar neighborhoods at night can be a danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99989,
+			"sentence": "The construction site had various danger zones marked",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99988,
+			"sentence": "Wild animals can present a danger if approached carelessly",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99987,
+			"sentence": "The hidden currents in the ocean pose a danger to swimmers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99986,
+			"sentence": "Failing to wear a helmet while biking is a danger to one's safety",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99985,
+			"sentence": "In extreme weather conditions, exposure is a real danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99984,
+			"sentence": "A lack of cybersecurity measures can put data in danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99983,
+			"sentence": "The old bridge was deteriorating, posing a danger to travelers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99982,
+			"sentence": "Speeding on wet roads increases the danger of accidents",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99981,
+			"sentence": "Detecting potential dangers requires a vigilant mindset",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99980,
+			"sentence": "Failure to follow evacuation orders can result in life-threatening danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99979,
+			"sentence": "Sharp objects in the playground can pose a danger to children",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99978,
+			"sentence": "The unsteady ladder presented a clear danger to the workers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99977,
+			"sentence": "Firefighters bravely face danger to save lives and property",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99976,
+			"sentence": "Without proper precautions, handling chemicals is a danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99975,
+			"sentence": "Reckless behavior near cliffs can lead to imminent danger",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99974,
+			"sentence": "Recognizing signs of danger is crucial for personal safety",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99973,
+			"sentence": "Unattended open flames are a danger in fire-prone areas",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99972,
+			"sentence": "Exposure to high levels of radiation is a danger to health",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99971,
+			"sentence": "The rip current created a hidden danger for swimmers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99970,
+			"sentence": "Distracted driving is a prevalent danger on the roads today",
+			"toTurkish": "",
+			"level": ""
+		},
 	]
 }
