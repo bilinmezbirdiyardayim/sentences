@@ -1,348 +1,1789 @@
 {
-        "sentences": [
-     
+	"sentences": [
 
-                {
-                        "id": 0,
-                        "sentence": "Once upon a time in a picturesque village, there lived an eccentric artist named Evelyn",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 0,
+			"sentence": "Every summer, the villagers eagerly awaited her annual exhibition",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 1,
-                        "sentence": "Every summer, the villagers eagerly awaited her annual exhibition",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 1,
+			"sentence": "Evelyn's studio, nestled among vibrant meadows, became a sanctuary for creativity",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 2,
-                        "sentence": "Evelyn's studio, nestled among vibrant meadows, became a sanctuary for creativity",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 2,
+			"sentence": "With unwavering passion, Evelyn immersed herself in her work",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 3,
-                        "sentence": "With unwavering passion, Evelyn immersed herself in her work",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 3,
+			"sentence": "Each stroke of her brush was a declaration of love for the world around her",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 4,
-                        "sentence": "Each stroke of her brush was a declaration of love for the world around her",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 4,
+			"sentence": "People from distant lands traveled to witness the magic firsthand",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 5,
-                        "sentence": "Her art spoke a universal language that resonated with the hearts of those who beheld it",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 5,
+			"sentence": "The masterpiece, a symphony of hues and emotions, radiated an indescribable energy",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 6,
-                        "sentence": "People from distant lands traveled to witness the magic firsthand",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 6,
+			"sentence": "It was a testament to the boundless possibilities that art held",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 7,
-                        "sentence": "The masterpiece, a symphony of hues and emotions, radiated an indescribable energy",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 7,
+			"sentence": "The night of the exhibition arrived, and the villagers gathered in awe",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 8,
-                        "sentence": "It was a testament to the boundless possibilities that art held",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 8,
+			"sentence": "The air buzzed with excitement as they entered Evelyn's studio",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 9,
-                        "sentence": "The night of the exhibition arrived, and the villagers gathered in awe",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 9,
+			"sentence": "Tears welled in the eyes of many, moved by the profound connection they felt",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 10,
-                        "sentence": "The air buzzed with excitement as they entered Evelyn's studio",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 10,
+			"sentence": "His office, tucked away in a dimly lit alley, was a hub of intrigue and mystery",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 11,
-                        "sentence": "Tears welled in the eyes of many, moved by the profound connection they felt",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 11,
+			"sentence": "Adrian, intrigued by the challenge, agreed to take on the case",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 12,
-                        "sentence": "Evelyn, humbled by the overwhelming response, thanked the villagers for embracing her art",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 12,
+			"sentence": "A tense standoff ensued, words exchanged like silent echoes in the vast hall",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 13,
-                        "sentence": "In the heart of a bustling metropolis, there lived an enigmatic detective named Adrian",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 13,
+			"sentence": "The stolen artifact was returned, and the city's equilibrium was restored",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 14,
-                        "sentence": "His office, tucked away in a dimly lit alley, was a hub of intrigue and mystery",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 14,
+			"sentence": "One crisp autumn morning, a letter arrived, bearing news that would change everything",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 15,
-                        "sentence": "Adrian, intrigued by the challenge, agreed to take on the case",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 15,
+			"sentence": "As Harper entered the castle, a sense of enchantment pervaded the air",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 16,
-                        "sentence": "The elusive thief left behind cryptic messages, taunting Adrian at every turn",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 16,
+			"sentence": "One day, as the city hurried around him, a stranger approached Jasper",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 17,
-                        "sentence": "There, in the moonlit silence, he confronted The Phantom",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 17,
+			"sentence": "The grove pulsed with radiant energy as Alaric approached the crystal",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 18,
-                        "sentence": "A tense standoff ensued, words exchanged like silent echoes in the vast hall",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 18,
+			"sentence": "The robots, once servants, had become the guardians of forgotten knowledge",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 19,
-                        "sentence": "Elara watched anxiously as the detective and thief danced on the precipice of revelation",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 19,
+			"sentence": "Word of the reawakened sector spread, drawing like-minded inventors and thinkers",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 20,
-                        "sentence": "The stolen artifact was returned, and the city's equilibrium was restored",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 20,
+			"sentence": "A small, shimmering creature with wings of stardust landed on Lyra's windowsill",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 21,
-                        "sentence": "One crisp autumn morning, a letter arrived, bearing news that would change everything",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 21,
+			"sentence": "Lyra, fueled by an insatiable curiosity, eagerly accepted the cosmic gift",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 22,
-                        "sentence": "As Harper entered the castle, a sense of enchantment pervaded the air",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 22,
+			"sentence": "Lyra's wish had transformed her into an interstellar adventurer",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 23,
-                        "sentence": "The days unfolded in a harmonious rhythm of shared creativity and midnight conversations",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 23,
+			"sentence": "Each encounter expanded her understanding of the vast tapestry of the universe",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 24,
-                        "sentence": "Navigating hidden passages and solving riddles, the writers discovered the fabled chamber",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 24,
+			"sentence": "With the village elders' blessing, Luna set to work preparing for the festival",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 25,
-                        "sentence": "One day, as the city hurried around him, a stranger approached Jasper",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 25,
+			"sentence": "As the day of the festival approached, excitement buzzed through the mountain air",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 26,
-                        "sentence": "She spoke of a shared dream – to compose a song that would embody the spirit of the city",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 26,
+			"sentence": "The pool, like a cosmic canvas, painted visions of love, adventure, and discovery",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 27,
-                        "sentence": "The grove pulsed with radiant energy as Alaric approached the crystal",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 27,
+			"sentence": "One day, Oliver stumbled upon a forgotten warehouse in the heart of the city",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 28,
-                        "sentence": "A brilliant light spread across Eldoria, banishing the shadows that clung to its lands",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 28,
+			"sentence": "Intrigued by its faded history, he decided to turn it into an immersive art space",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 29,
-                        "sentence": "The robots, once servants, had become the guardians of forgotten knowledge",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 29,
+			"sentence": "The seashell, she discovered, was a key to unlocking the language of the ocean itself",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 30,
-                        "sentence": "Word of the reawakened sector spread, drawing like-minded inventors and thinkers",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 30,
+			"sentence": "Coral reefs regained their vibrant colors, and marine life flourished once more",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 31,
-                        "sentence": "In the heart of this reborn city, Nova stood as a symbol of bridging the past and future",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 31,
+			"sentence": "At the heart of Aetheria lived a young inventor named Celestia",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 32,
-                        "sentence": "To her astonishment, the next morning brought a mysterious celestial visitor to Emberdale",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 32,
+			"sentence": "Celestia, now revered as the Skyweaver, continued to push the boundaries of invention",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 33,
-                        "sentence": "A small, shimmering creature with wings of stardust landed on Lyra's windowsill",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 33,
+			"sentence": "Despite facing numerous challenges, she successfully completed the demanding project",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 34,
-                        "sentence": "Lyra, fueled by an insatiable curiosity, eagerly accepted the cosmic gift",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 34,
+			"sentence": "The intricate details of the historical artifact fascinated the museum visitors",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 35,
-                        "sentence": "Lyra's wish had transformed her into an interstellar adventurer",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 35,
+			"sentence": "The author skillfully conveyed the protagonist's internal struggles in the novel",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 36,
-                        "sentence": "As they journeyed from galaxy to galaxy, Lyra encountered civilizations beyond imagination",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 36,
+			"sentence": "The renowned scientist revolutionized the field with groundbreaking discoveries",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 37,
-                        "sentence": "Each encounter expanded her understanding of the vast tapestry of the universe",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 37,
+			"sentence": "His eloquent speech captivated the audience and left a lasting impression",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 38,
-                        "sentence": "The villagers, inspired by her adventures, looked up at the night sky with newfound wonder",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 38,
+			"sentence": "Adapting to diverse cultural norms is essential in today's interconnected world",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 39,
-                        "sentence": "The map, etched into the stone floor, depicted constellations that mirrored the desert sky",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 39,
+			"sentence": "The team demonstrated exceptional cohesion, leading to a seamless project execution",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 40,
-                        "sentence": "Realizing the importance of the Desert Star, Elara carefully transported it to the surface",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 40,
+			"sentence": "Despite facing unexpected setbacks, the team managed to achieve remarkable results",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 41,
-                        "sentence": "With the village elders' blessing, Luna set to work preparing for the festival",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 41,
+			"sentence": "Navigating through the complex legal system requires a comprehensive understanding",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 42,
-                        "sentence": "As the day of the festival approached, excitement buzzed through the mountain air",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 42,
+			"sentence": "The artist's mastery of color and form evoked a profound emotional response",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 43,
-                        "sentence": "Villagers adorned in masks gathered, their eyes reflecting the anticipation of the unknown",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 43,
+			"sentence": "Collaborating with experts from various fields enhances the overall project outcomes",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 44,
-                        "sentence": "One by one, the villagers peered into the magical waters",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 44,
+			"sentence": "Developing effective communication skills is pivotal for professional success",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 45,
-                        "sentence": "The pool, like a cosmic canvas, painted visions of love, adventure, and discovery",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 45,
+			"sentence": "The politician's eloquence and charisma garnered widespread support from the public",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 46,
-                        "sentence": "One day, Oliver stumbled upon a forgotten warehouse in the heart of the city",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 46,
+			"sentence": "Analyzing intricate data sets is a fundamental aspect of modern scientific research",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 47,
-                        "sentence": "Intrigued by its faded history, he decided to turn it into an immersive art space",
-                        "toTurkish": "",
-                        "level": ""
-                },
+		{
+			"id": 47,
+			"sentence": "Balancing work commitments with personal life is essential for overall well-being",
+			"toTurkish": "",
+			"level": ""
+		},
 
-                {
-                        "id": 48,
-                        "sentence": "The success of TimeEcho echoed beyond the warehouse walls",
-                        "toTurkish": "",
-                        "level": ""
-                }
-        ]
+		{
+			"id": 48,
+			"sentence": "Implementing sustainable practices is crucial to address environmental challenges",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 49,
+			"sentence": "The novel's intricate plot twists kept readers eagerly turning each page",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 50,
+			"sentence": "The celestial panorama unveiled a tapestry of stars, mesmerizing observers below",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 51,
+			"sentence": "Amidst the labyrinthine alleys, an undiscovered gem of a cafe beckoned passersby",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 52,
+			"sentence": "The polymath's erudition spanned diverse fields, from philosophy to astrophysics",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 53,
+			"sentence": "The protagonist's existential dilemmas added a layer of profundity to the narrative",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 54,
+			"sentence": "A cacophony of voices in the bustling marketplace created a vibrant urban symphony",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 55,
+			"sentence": "The expedition's arduous journey tested the team's mettle and camaraderie",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 56,
+			"sentence": "The opulent ballroom radiated an aura of sophistication, hosting the elite of society",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 57,
+			"sentence": "Technological disruptions often precipitate seismic shifts in economic paradigms",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 58,
+			"sentence": "As an arbiter of justice, the judge navigated the complex web of legal intricacies",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 59,
+			"sentence": "The ethereal glow of twilight painted the sky in hues of orange and lavender",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 60,
+			"sentence": "Amidst the verdant meadows, a kaleidoscope of wildflowers danced in the gentle breeze",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 61,
+			"sentence": "The poignant melody of the solo violin echoed through the dimly lit concert hall",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 62,
+			"sentence": "The labyrinthine plot of the mystery novel kept readers on the edge of their seats",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 63,
+			"sentence": "Cultural nuances add a layer of richness to communication, transcending language",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 64,
+			"sentence": "The avant-garde architect seamlessly merged functionality with avant-garde aesthetics",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 65,
+			"sentence": "In the crucible of adversity, resilience becomes the crucible of personal growth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 66,
+			"sentence": "The scientific inquiry into quantum mechanics unraveled perplexing cosmic mysteries",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 67,
+			"sentence": "The cybersecurity protocol proved impervious to the sophisticated hacking attempt",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 68,
+			"sentence": "The orator's eloquence resonated with the audience, leaving an indelible impression",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 69,
+			"sentence": "The enigmatic artwork evoked a myriad of emotions, inviting interpretation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 70,
+			"sentence": "The burgeoning metropolis pulsated with life, a testament to urban resilience",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 71,
+			"sentence": "The enigmatic detective sifted through clues, unraveling the perplexing mystery",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 72,
+			"sentence": "Ethical dilemmas often pose intricate challenges in professional decision-making",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 73,
+			"sentence": "The celestial bodies, in their cosmic dance, weave tales of astronomical wonder",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 74,
+			"sentence": "The virtuoso pianist's fingers danced across the keys, creating a symphony of sound",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 75,
+			"sentence": "The culinary maestro's gastronomic creations transcended the boundaries of taste",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 76,
+			"sentence": "The elusive concept of time perplexes philosophers and physicists alike",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 77,
+			"sentence": "The dichotomy of tradition and modernity shapes the cultural landscape",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 78,
+			"sentence": "The intrepid explorer navigated treacherous terrain, documenting newfound wonders",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 79,
+			"sentence": "The clandestine meeting unfolded under the cloak of darkness, shrouded in secrecy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 80,
+			"sentence": "The paradox of choice presents consumers with an overwhelming array of options",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 81,
+			"sentence": "The effervescent laughter of children echoed through the idyllic countryside",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 82,
+			"sentence": "In the crucible of competition, innovation becomes the catalyst for progress",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 83,
+			"sentence": "The cosmic ballet of stars in the night sky evokes a sense of cosmic insignificance",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 84,
+			"sentence": "The elusive nature of happiness fuels philosophical contemplation across cultures",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 85,
+			"sentence": "The intricate dance of shadows on the ancient wall told stories of bygone eras",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 86,
+			"sentence": "The polymath's erudition extended to the realms of art, science, and philosophy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 87,
+			"sentence": "Quantum computing heralds a paradigm shift in information processing capabilities",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 88,
+			"sentence": "The nomadic tribe's survival hinges on their intimate knowledge of the harsh terrain",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 89,
+			"sentence": "The art connoisseur marveled at the exquisite brushstrokes of the masterpiece",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 90,
+			"sentence": "The synergy of teamwork amplifies creativity, yielding groundbreaking innovations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 91,
+			"sentence": "The ethereal beauty of the sunrise cast a warm glow over the tranquil landscape",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 92,
+			"sentence": "The psychological intricacies of human behavior continue to fascinate researchers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 93,
+			"sentence": "The delicate ecosystem of the coral reef teems with vibrant marine life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 94,
+			"sentence": "A clandestine meeting unfolded under the cloak of darkness, shrouded in secrecy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 95,
+			"sentence": "Paradoxically, choice presents consumers with an overwhelming array of options",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 96,
+			"sentence": "Effervescent laughter of children echoed through the idyllic countryside",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 97,
+			"sentence": "In the crucible of competition, innovation becomes a catalyst for progress",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 98,
+			"sentence": "The cosmic ballet of stars in the night sky evokes a sense of cosmic insignificance",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 99,
+			"sentence": "Elusive nature of happiness fuels philosophical contemplation across cultures",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 100,
+			"sentence": "Intricate dance of shadows on the ancient wall told stories of bygone eras",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 101,
+			"sentence": "Polymath's erudition extended to the realms of art, science, and philosophy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 102,
+			"sentence": "Quantum computing heralds a paradigm shift in information processing capabilities",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 103,
+			"sentence": "Nomadic tribe's survival hinges on their intimate knowledge of the harsh terrain",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 104,
+			"sentence": "Art connoisseur marveled at the exquisite brushstrokes of the masterpiece",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 105,
+			"sentence": "Synergy of teamwork amplifies creativity, yielding groundbreaking innovations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 106,
+			"sentence": "Ethereal beauty of the sunrise cast a warm glow over the tranquil landscape",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 107,
+			"sentence": "Entrepreneur's visionary leadership propelled the startup to unprecedented success",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 108,
+			"sentence": "Psychological intricacies of human behavior continue to fascinate researchers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 109,
+			"sentence": "Delicate ecosystem of the coral reef teems with vibrant marine life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 110,
+			"sentence": "Diplomat skillfully navigated diplomatic waters, fostering international cooperation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 111,
+			"sentence": "Clandestine affairs often unfold beneath the surface of seemingly ordinary lives",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 112,
+			"sentence": "Ephemeral beauty of cherry blossoms captivates hearts in the fleeting springtime",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 113,
+			"sentence": "Serendipitous encounters can lead to profound connections that defy explanation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 114,
+			"sentence": "In the labyrinth of thoughts, introspection becomes a guide to self-discovery",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 115,
+			"sentence": "The symbiotic relationship between bees and flowers sustains the cycle of pollination",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 116,
+			"sentence": "The resonance of ancient chants echoed through the sacred halls of the temple",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 117,
+			"sentence": "The dichotomy of dreams and reality blurs in the realm of surrealist art",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 118,
+			"sentence": "In the crucible of adversity, resilience emerges as a beacon of hope",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 119,
+			"sentence": "The relentless pursuit of knowledge propels humanity towards new frontiers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 120,
+			"sentence": "The enchanting aroma of spices wafted through the bustling market square",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 121,
+			"sentence": "Harmonious coexistence with nature is imperative for sustainable living",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 122,
+			"sentence": "Cultural assimilation gives rise to a tapestry of traditions woven through time",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 123,
+			"sentence": "The synergy of diverse perspectives fosters innovation in collaborative endeavors",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 124,
+			"sentence": "Urban exploration reveals hidden gems tucked away in the labyrinth of city streets",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 125,
+			"sentence": "Melancholic melodies of a lone violin echoed in the quietude of the night",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 126,
+			"sentence": "Technological marvels continue to redefine the boundaries of human capability",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 127,
+			"sentence": "The intrinsic value of kindness lies in its ability to create ripples of positivity",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 128,
+			"sentence": "Navigating the complexities of human relationships requires empathy and understanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 129,
+			"sentence": "Traveling broadens one's horizons and exposes individuals to diverse cultures",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 130,
+			"sentence": "Learning a new language requires dedication, practice, and an open mind",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 131,
+			"sentence": "The internet has revolutionized communication, making information easily accessible",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 132,
+			"sentence": "Balancing work and personal life is crucial for overall well-being and happiness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 133,
+			"sentence": "Effective time management is essential for meeting deadlines and reducing stress",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 134,
+			"sentence": "The ability to adapt to change is a valuable skill in today's fast-paced world",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 135,
+			"sentence": "Cultivating a hobby provides a constructive outlet for relaxation and self-expression",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 136,
+			"sentence": "Cultural diversity enriches society by fostering tolerance and understanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 137,
+			"sentence": "Effective communication involves not just speaking but also active listening",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 138,
+			"sentence": "Maintaining a healthy work-life balance contributes to overall job satisfaction",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 139,
+			"sentence": "Online education has become increasingly popular, offering flexibility for learners",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 140,
+			"sentence": "Volunteering in the community fosters a sense of civic responsibility and empathy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 141,
+			"sentence": "The importance of teamwork extends beyond the workplace to various aspects of life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 142,
+			"sentence": "Cultural exchange programs provide an opportunity for people to learn from each other",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 143,
+			"sentence": "Resilience is the key to overcoming challenges and bouncing back from setbacks",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 144,
+			"sentence": "Time management skills are beneficial for balancing academic and personal commitments",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 145,
+			"sentence": "Regular exercise not only improves physical health but also boosts mental well-being",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 146,
+			"sentence": "Embracing diversity in the workplace fosters creativity and innovation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 147,
+			"sentence": "Effective public speaking involves clear communication and engaging presentation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 148,
+			"sentence": "Continuous learning is essential in today's rapidly changing and competitive world",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 149,
+			"sentence": "Maintaining a positive mindset can contribute to overall mental and emotional health",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 150,
+			"sentence": "Effective problem-solving requires analytical thinking and a systematic approach",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 151,
+			"sentence": "Understanding cultural nuances is crucial when communicating in a globalized world",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 152,
+			"sentence": "Developing empathy allows individuals to connect with others on a deeper level",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 153,
+			"sentence": "Learning a new language can be challenging but also rewarding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 154,
+			"sentence": "My favorite hobby is reading books, especially mystery novels",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 155,
+			"sentence": "Technology has made communication faster and more convenient",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 156,
+			"sentence": "Regular exercise is beneficial for both physical and mental well-being",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 157,
+			"sentence": "I try to learn something new every day to keep my mind active",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 158,
+			"sentence": "Cooking is a skill that I want to improve because it's practical and fun",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 159,
+			"sentence": "Weather can greatly affect my mood, especially on gloomy days",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 160,
+			"sentence": "I prefer to do my shopping at local markets rather than big supermarkets",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 161,
+			"sentence": "Keeping a daily routine helps me stay organized and productive",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 162,
+			"sentence": "I believe that a positive attitude can make a significant difference in life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 163,
+			"sentence": "Planning ahead is important, whether it's for a trip or a project",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 164,
+			"sentence": "Learning about different cultures through food is fascinating to me",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 165,
+			"sentence": "I enjoy listening to music from various genres depending on my mood",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 166,
+			"sentence": "Taking short breaks during work helps me stay refreshed and focused",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 167,
+			"sentence": "Gardening is a hobby that brings me joy and a sense of accomplishment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 168,
+			"sentence": "I believe that everyone should have access to quality education",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 169,
+			"sentence": "Time management is a skill that can greatly improve one's efficiency",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 170,
+			"sentence": "Staying connected with friends through social media is important for me",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 171,
+			"sentence": "Patience is a virtue that I'm trying to cultivate in my daily life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 172,
+			"sentence": "Balancing work and personal life is crucial for overall well-being",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 173,
+			"sentence": "I find inspiration in nature, whether it's a scenic view or a simple flower",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 174,
+			"sentence": "Learning from mistakes is a valuable part of personal growth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 175,
+			"sentence": "Regular exercise doesn't have to be intense; even a short walk can be beneficial",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 176,
+			"sentence": "Finding a good work-life balance is important for reducing stress",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 177,
+			"sentence": "Celebrating cultural festivals brings people together and promotes understanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 178,
+			"sentence": "I often choose walking or cycling over driving for short distances to stay active",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 179,
+			"sentence": "Keeping a gratitude journal helps me focus on the positive aspects of life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 180,
+			"sentence": "Learning basic first aid skills can be valuable in emergency situations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 181,
+			"sentence": "I enjoy meeting new people and making friends from different backgrounds",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 182,
+			"sentence": "Practicing mindfulness through activities like meditation helps calm my mind",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 183,
+			"sentence": "Volunteering in the community is a fulfilling way to give back and make a difference",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 184,
+			"sentence": "I believe in the importance of lifelong learning for personal development",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 185,
+			"sentence": "Setting realistic goals for myself helps me stay motivated and disciplined",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 186,
+			"sentence": "I appreciate the beauty of simple moments, like a sunset or a cup of tea",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 187,
+			"sentence": "Traveling allows me to experience different cultures and broaden my perspective",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 188,
+			"sentence": "I prefer to shop for locally sourced products to support small businesses",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 189,
+			"sentence": "I try to limit screen time before bedtime for better sleep quality",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 190,
+			"sentence": "A positive mindset helps me navigate challenges with resilience",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 191,
+			"sentence": "Building good habits, like regular exercise, contributes to a healthy lifestyle",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 192,
+			"sentence": "Being open-minded allows me to appreciate diverse opinions and ideas",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 193,
+			"sentence": "Outdoor activities, such as hiking or picnics, are my favorite ways to relax",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 194,
+			"sentence": "I believe in the importance of conserving natural resources for future generations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 195,
+			"sentence": "Balancing academic studies with extracurricular activities enhances personal growth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 196,
+			"sentence": "Creating a daily to-do list helps me stay organized and productive",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 197,
+			"sentence": "I enjoy trying my hand at DIY projects to unleash my creativity",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 198,
+			"sentence": "I believe in the power of kindness to create a positive ripple effect",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 199,
+			"sentence": "Learning to cook a few simple recipes has made a significant difference in my life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 200,
+			"sentence": "Regular breaks during work help me stay focused and prevent burnout",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 201,
+			"sentence": "Reflecting on personal achievements motivates me to set new goals",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 202,
+			"sentence": "I like to watch cartoons because they are funny and entertaining",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 203,
+			"sentence": "Every Sunday, I visit my grandparents and have lunch with them",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 204,
+			"sentence": "My favorite season is summer because I love going to the beach",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 205,
+			"sentence": "Every year, my family and I celebrate my birthday with a cake",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 206,
+			"sentence": "I want to travel to different countries and learn about their cultures",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 207,
+			"sentence": "The intricate plot of the novel kept me engrossed until the very end",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 208,
+			"sentence": "Engaging in philosophical discussions deepens my understanding of abstract concepts",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 209,
+			"sentence": "The symphony's evocative melodies resonated with the audience's emotions",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 210,
+			"sentence": "Navigating the complexities of international diplomacy requires tact and skill",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 211,
+			"sentence": "The abstract art installation provoked contemplation on the nature of perception",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 212,
+			"sentence": "The protagonist's internal conflict added layers of depth to the narrative",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 213,
+			"sentence": "Advanced quantum mechanics theories push the boundaries of our understanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 214,
+			"sentence": "The documentary provided a nuanced perspective on the socio-economic issues",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 215,
+			"sentence": "The mathematical theorem's elegance lies in its simplicity and universality",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 216,
+			"sentence": "The courtroom drama unfolded with riveting testimony and legal intricacies",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 217,
+			"sentence": "Engrossed in existential literature, I pondered the nature of human existence",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 218,
+			"sentence": "The orator's rhetoric skillfully appealed to both emotion and reason",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 219,
+			"sentence": "A polymath's expertise spans diverse domains, showcasing a breadth of knowledge",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 220,
+			"sentence": "The geopolitical landscape is marked by a complex interplay of power dynamics",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 221,
+			"sentence": "The virtuoso's performance showcased a mastery of technique and artistic expression",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 222,
+			"sentence": "Environmental sustainability necessitates a radical shift in consumption patterns",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 223,
+			"sentence": "The psychological thriller delved into the intricacies of the human psyche",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 224,
+			"sentence": "The entrepreneur's audacious venture reshaped industry norms and expectations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 225,
+			"sentence": "The historical novel provided a vivid portrayal of bygone eras and societal norms",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 226,
+			"sentence": "Technological convergence is reshaping industries, heralding a new era of innovation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 227,
+			"sentence": "The architectural masterpiece seamlessly integrates form and function",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 228,
+			"sentence": "The artist's avant-garde installations challenge viewers to question societal norms",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 229,
+			"sentence": "The space exploration mission unveiled unprecedented insights into the cosmos",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 230,
+			"sentence": "The eloquent speaker effortlessly conveyed complex ideas with clarity and precision",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 231,
+			"sentence": "The legal discourse highlighted the intricate balance between justice and mercy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 232,
+			"sentence": "The avant-garde artist's installations challenge conventional perceptions of art",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 233,
+			"sentence": "Ethical considerations play a pivotal role in the advancement of scientific research",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 234,
+			"sentence": "The literary work's narrative intricacies demanded a careful and attentive reader",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 235,
+			"sentence": "The complex symphony score demanded exceptional skill from the orchestra",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 236,
+			"sentence": "The psychological thriller explored the depths of human consciousness and morality",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 237,
+			"sentence": "The architectural marvel seamlessly integrates sustainability principles",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 238,
+			"sentence": "The scientific community grapples with ethical implications in genetic research",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 239,
+			"sentence": "The entrepreneur's visionary leadership steered the company through turbulent times",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 240,
+			"sentence": "Quantum physics introduces a paradigm shift in our understanding of the universe",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 241,
+			"sentence": "The philosophical discourse delves into the nature of consciousness and existence",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 242,
+			"sentence": "The cinematic masterpiece employed innovative techniques to tell a compelling story",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 243,
+			"sentence": "The geopolitical landscape is marked by intricate alliances and power struggles",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 244,
+			"sentence": "The mathematical proof's elegance lies in its simplicity and logical coherence",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 245,
+			"sentence": "The psychological drama explored the intricacies of memory and perception",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 246,
+			"sentence": "The environmental documentary shed light on urgent issues threatening our planet",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 247,
+			"sentence": "The economic model predicted subtle shifts in global markets and trade relations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 248,
+			"sentence": "The artistic installation transcended traditional boundaries, provoking thought",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 249,
+			"sentence": "The diplomatic negotiations required finesse to address cultural sensitivities",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 250,
+			"sentence": "The virtuoso's performance showcased technical mastery and emotional depth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 251,
+			"sentence": "The historical novel provided a nuanced perspective on societal norms of the time",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 252,
+			"sentence": "The technological breakthrough has far-reaching implications for future developments",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 253,
+			"sentence": "The cognitive scientist explores the intricacies of the human mind and behavior",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 254,
+			"sentence": "The legal drama unfolded with gripping courtroom scenes and moral dilemmas",
+			"toTurkish": "",
+			"level": ""
+		}
+	]
 }
