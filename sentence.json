@@ -3459,9 +3459,9 @@
 			"level": ""
 		},
 
-		{
+			{
 			"id": 494,
-				"sentence": "Spending quality time with family and friends is a priority in my life",
+			"sentence": "Spending quality time with family and friends is a priority in my life",
 			"toTurkish": "",
 			"level": ""
 		},
@@ -4987,7 +4987,7 @@
 
 		{
 			"id": 712,
-			"sentence": "Do you enjoy cooking your own meals? The weather was nice, so we went for a swim",
+			"sentence": "The weather was nice, so we went for a swim",
 			"toTurkish": "",
 			"level": ""
 		},
@@ -5603,7 +5603,7 @@
 
 		{
 			"id": 800,
-			"sentence": "Can you write a review of the movie you watched? Write a message on the greeting card",
+			"sentence": "Write a message on the greeting card",
 			"toTurkish": "",
 			"level": ""
 		},
@@ -7053,7 +7053,7 @@
 		{
 			"id": 1007,
 			"sentence": "The unwavering loyalty of the dog formed an unbreakable bond with its owner",
-			"toTurkish": "",
+				"toTurkish": "",
 			"level": ""
 		},
 
@@ -7690,6 +7690,2008 @@
 		{
 			"id": 1098,
 			"sentence": "They are the most important people in my life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1099,
+			"sentence": "The new political party introduced a radical approach to social issues",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1100,
+			"sentence": "In science, some breakthroughs require radical changes in thinking",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1101,
+			"sentence": "The artist embraced a radical style, challenging traditional norms",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1102,
+			"sentence": "The activist proposed a radical solution to address climate change",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1103,
+			"sentence": "The company implemented a radical restructuring to improve efficiency",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1104,
+			"sentence": "Her radical ideas sparked a lively debate among the participants",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1105,
+			"sentence": "The professor presented a radical theory that challenged existing beliefs",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1106,
+			"sentence": "The technological advancements brought about a radical transformation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1107,
+			"sentence": "The community supported a radical initiative for urban development",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1108,
+			"sentence": "The book explores the radical changes in society during the 20th century",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1109,
+			"sentence": "Among all the candidates, she is the most qualified for the position",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1110,
+			"sentence": "In the competition, his performance was the most outstanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1111,
+			"sentence": "The mountain peak offers the most breathtaking view in the region",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1112,
+			"sentence": "This store has the most diverse collection of vintage items",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1113,
+			"sentence": "The puzzle was challenging, but the last piece was the most difficult",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1114,
+			"sentence": "The tropical island experiences the most beautiful sunsets",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1115,
+			"sentence": "The scientist discovered that this species is the most resilient to climate change",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1116,
+			"sentence": "Among the options, the third one seems the most suitable for our needs",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1117,
+			"sentence": "After exploring various solutions, they found that simplicity was the most effective",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1118,
+			"sentence": "The hotel received the most positive reviews for its exceptional service",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1119,
+			"sentence": "The old photograph had a sense of belonging to a bygone era",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1120,
+			"sentence": "Being with close friends gives a feeling of belonging and comfort",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1121,
+			"sentence": "Each artifact in the museum has its own historical belonging",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1122,
+			"sentence": "The novel explores the protagonist's search for a sense of belonging",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1123,
+			"sentence": "The family reunion created a strong sense of belonging for everyone",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1124,
+			"sentence": "The cultural festival celebrated the belonging of diverse communities",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1125,
+			"sentence": "In the wilderness, there was a deep sense of belonging to nature",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1126,
+			"sentence": "The team members shared a strong sense of belonging to their mission",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1127,
+			"sentence": "The artwork conveyed a message of universal human belonging",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1128,
+			"sentence": "The small town exudes a warm atmosphere of belonging and community",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1129,
+			"sentence": "Family outings to the beach were a cherished tradition",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1130,
+			"sentence": "The school organized educational outings for the students",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1131,
+			"sentence": "We plan to have more outdoor outings during the summer",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1132,
+			"sentence": "Social outings with colleagues help strengthen team bonds",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1133,
+			"sentence": "The club arranges weekly outings for its members",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1134,
+			"sentence": "They enjoy spontaneous outings to explore new places",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1135,
+			"sentence": "Group outings provide opportunities for shared experiences",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1136,
+			"sentence": "The community center hosts regular outings for seniors",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1137,
+			"sentence": "Nature outings help promote environmental awareness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1138,
+			"sentence": "Cultural outings expose individuals to diverse experiences",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1139,
+			"sentence": "Please save some pizza for us; we'll be there soon",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1140,
+			"sentence": "The decision will affect us all in different ways",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1141,
+			"sentence": "Let us work together to find a solution to the problem",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1142,
+			"sentence": "The movie tickets are for us, so don't worry about the cost",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1143,
+			"sentence": "Us siblings have a strong bond that nothing can break",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1144,
+			"sentence": "As citizens, it is essential for us to stay informed about current events",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1145,
+			"sentence": "The new policy will impact us employees directly",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1146,
+			"sentence": "The journey taught us valuable lessons about perseverance",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1147,
+			"sentence": "She plans to attend the conference to gain new insights",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1148,
+			"sentence": "Students must attend classes regularly to succeed academically",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1149,
+			"sentence": "We are delighted to invite you to attend our upcoming event",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1150,
+			"sentence": "Employees are required to attend the mandatory training session",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1151,
+			"sentence": "Please confirm whether you can attend the meeting on Monday",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1152,
+			"sentence": "The couple decided to attend dance classes together",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1153,
+			"sentence": "Many people choose to attend church services on Sundays",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1154,
+			"sentence": "It's crucial to attend to the details when planning an event",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1155,
+			"sentence": "The mayor will attend the ribbon-cutting ceremony for the new park",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1156,
+			"sentence": "As a responsible citizen, it is your duty to attend town hall meetings",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1157,
+			"sentence": "The actor delivered a powerful performance in the lead act",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1158,
+			"sentence": "It's important to act quickly in emergency situations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1159,
+			"sentence": "The legislation aims to act against discrimination in the workplace",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1160,
+			"sentence": "She decided to act on her dreams and pursue a career in art",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1161,
+			"sentence": "The detective needed to act on the evidence to solve the case",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1162,
+			"sentence": "Kindness is a simple yet impactful way to act towards others",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1163,
+			"sentence": "The rescue team had to act decisively to save the stranded hikers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1164,
+			"sentence": "The new policy will act as a catalyst for positive change",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1165,
+			"sentence": "In the play, each act reveals a different aspect of the story",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1166,
+			"sentence": "Governments must act collectively to address global challenges",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1167,
+			"sentence": "Teachers play a crucial role in encouraging students to excel",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1168,
+			"sentence": "Parents should encourage their children to pursue their passions",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1169,
+			"sentence": "The manager took the time to encourage the team after a challenging project",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1170,
+			"sentence": "Supportive friends can greatly encourage you during tough times",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1171,
+			"sentence": "Positive feedback can encourage employees to improve their performance",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1172,
+			"sentence": "A mentor's role is to guide and encourage personal and professional growth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1173,
+			"sentence": "Public recognition can encourage volunteers to continue their efforts",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1174,
+			"sentence": "Setting achievable goals can encourage individuals to stay motivated",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1175,
+			"sentence": "The coach used motivational speeches to encourage the athletes",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1176,
+			"sentence": "Don't hesitate to encourage creativity and innovation in the workplace",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1177,
+			"sentence": "Achieving his lifelong dream left him feeling fulfilled and content",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1178,
+			"sentence": "The completed project gave the team a sense of fulfilled accomplishment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1179,
+			"sentence": "She pursued a career that fulfilled both her passion and purpose",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1180,
+			"sentence": "Volunteering at the shelter made him feel fulfilled and purposeful",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1181,
+			"sentence": "The heartfelt gratitude from the community made the charity work feel fulfilled",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1182,
+			"sentence": "A loving family and successful career contributed to her fulfilled life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1183,
+			"sentence": "Pursuing one's passions often leads to a more fulfilled existence",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1184,
+			"sentence": "The artist felt fulfilled as the gallery visitors appreciated her work",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1185,
+			"sentence": "Personal growth and learning contribute to a more fulfilled life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1186,
+			"sentence": "Balancing work and personal life is essential for a fulfilled lifestyle",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1187,
+			"sentence": "The charity relies on generous donations to support its mission",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1188,
+			"sentence": "Many organizations welcome in-kind donations as well as financial ones",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1189,
+			"sentence": "The school organized a fundraising campaign to gather donations for new equipment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1190,
+			"sentence": "Online platforms make it easy to track and process monetary donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1191,
+			"sentence": "Local businesses often contribute to community projects through donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1192,
+			"sentence": "During the holiday season, there is an increase in charitable donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1193,
+			"sentence": "The museum is grateful for the historical artifacts received as donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1194,
+			"sentence": "Individuals can claim tax deductions for qualifying charitable donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1195,
+			"sentence": "Emergency relief efforts depend on the swift arrival of donations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1196,
+			"sentence": "The kids decided to collect seashells during their beach vacation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1197,
+			"sentence": "The museum aims to collect artifacts representing various historical periods",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1198,
+			"sentence": "Please collect your tickets from the box office before entering the theater",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1199,
+			"sentence": "The teacher asked the students to collect data for their science project",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1200,
+			"sentence": "Volunteers will go door-to-door to collect donations for the charity",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1201,
+			"sentence": "The company decided to collect feedback from customers to improve its services",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1202,
+			"sentence": "We need to collect signatures for the petition to bring about change",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1203,
+			"sentence": "It's important to collect evidence before making any accusations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1204,
+			"sentence": "The library has a goal to collect rare books for its special collection",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1205,
+			"sentence": "Let's collect everyone's opinions before making a decision on the matter",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1206,
+			"sentence": "She considers herself fortunate to have a supportive family",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1207,
+			"sentence": "Winning the scholarship was a fortunate turn of events for him",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1208,
+			"sentence": "Despite the challenges, they feel fortunate for the opportunities they've had",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1209,
+			"sentence": "We are fortunate to live in a community that values diversity",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1210,
+			"sentence": "Health is a precious and fortunate aspect of a fulfilling life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1211,
+			"sentence": "Meeting her lifelong idol was a fortunate coincidence",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1212,
+			"sentence": "The successful outcome of the project made everyone feel fortunate",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1213,
+			"sentence": "Being surrounded by friends in difficult times is truly fortunate",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1214,
+			"sentence": "Many consider themselves fortunate to have found a fulfilling career",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1215,
+			"sentence": "Traveling to different countries has made him feel fortunate for diverse experiences",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1216,
+			"sentence": "Eating less sugar is a good choice for a healthier lifestyle",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1217,
+			"sentence": "The new car model is designed to be less fuel-consuming",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1218,
+			"sentence": "We need less time to complete the project than initially anticipated",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1219,
+			"sentence": "Please use less water to conserve our natural resources",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1220,
+			"sentence": "The revised policy allows for less paperwork and bureaucracy",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1221,
+			"sentence": "Speaking more concisely often conveys the message in less time",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1222,
+			"sentence": "The minimalist design philosophy emphasizes using less to achieve more",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1223,
+			"sentence": "It's important to stress less and find ways to relax in daily life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1224,
+			"sentence": "Reducing waste by using less disposable items benefits the environment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1225,
+			"sentence": "Learning to say no can lead to a less stressful and more balanced life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1226,
+			"sentence": "Local charities work tirelessly to provide shelter for the homeless",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1227,
+			"sentence": "Many cities face the challenge of addressing the needs of homeless individuals",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1228,
+			"sentence": "The winter shelter program aims to offer warmth to the homeless during cold nights",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1229,
+			"sentence": "Volunteers distribute food and clothing to support the homeless population",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1230,
+			"sentence": "A compassionate community strives to find long-term solutions for the homeless",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1231,
+			"sentence": "The government is implementing policies to reduce the number of homeless people",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1232,
+			"sentence": "Individuals experiencing homelessness often face various societal challenges",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1233,
+			"sentence": "Community centers organize events to raise awareness about the plight of the homeless",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1234,
+			"sentence": "Charitable organizations collaborate to provide medical care for the homeless",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1235,
+			"sentence": "The restaurant aims to serve delicious and innovative dishes",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1236,
+			"sentence": "Soldiers willingly serve their country to protect its citizens",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1237,
+			"sentence": "Volunteer organizations serve communities in times of need",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1238,
+			"sentence": "The coffee shop will serve freshly brewed coffee all day",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1239,
+			"sentence": "Public servants work to serve the interests of the people",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1240,
+			"sentence": "The tennis player has a powerful serve that's hard to return",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1241,
+			"sentence": "Education serves as a foundation for personal and societal growth",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1242,
+			"sentence": "In a democracy, elected officials serve at the will of the people",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1243,
+			"sentence": "The purpose of the committee is to serve as a liaison between departments",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1244,
+			"sentence": "Customer service representatives strive to serve clients efficiently and courteously",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1245,
+			"sentence": "I have a busy week ahead with work deadlines and meetings",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1246,
+			"sentence": "They plan to go on vacation next week to unwind",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1247,
+			"sentence": "Every week, the team gathers for a progress meeting",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1248,
+			"sentence": "Last week's weather was unpredictable with sudden rain showers",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1249,
+			"sentence": "This week's focus is on completing the marketing campaign",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1250,
+			"sentence": "The school announces the student of the week in the newsletter",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1251,
+			"sentence": "Planning meals for the week helps with grocery shopping efficiency",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1252,
+			"sentence": "She started a new fitness routine this week to stay active",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1253,
+			"sentence": "The concert tickets go on sale next week; don't forget to buy yours",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1254,
+			"sentence": "The event is scheduled for the first week of the month",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1255,
+			"sentence": "The hiker climbed the steep rock formation with skill",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1256,
+			"sentence": "The concert was filled with energetic rock music and enthusiastic fans",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1257,
+			"sentence": "The children skipped stones across the calm surface of the rock-studded lake",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1258,
+			"sentence": "The geologist studied the layers of rock to understand the Earth's history",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1259,
+			"sentence": "His foundation in physics was as solid as a rock",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1260,
+			"sentence": "The ocean waves crashed against the rugged rocks along the shore",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1261,
+			"sentence": "The diamond glittered in the sunlight, embedded in the rock",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1262,
+			"sentence": "The historic castle was perched on top of a massive rock",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1263,
+			"sentence": "The ancient inscription on the rock revealed clues about the lost civilization",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1264,
+			"sentence": "The construction crew blasted through the rock to build the tunnel",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1265,
+			"sentence": "She heard a loud pop, and the balloon burst unexpectedly",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1266,
+			"sentence": "The pop of the champagne cork signaled the start of the celebration",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1267,
+			"sentence": "The artist's latest single is a catchy pop song with upbeat vibes",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1268,
+			"sentence": "The movie theater offers a variety of snacks, including popcorn and soda pop",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1269,
+			"sentence": "The fashion designer chose vibrant colors that really pop in the collection",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1270,
+			"sentence": "The sudden pop of color in the garden brought joy to everyone",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1271,
+			"sentence": "The soda can made a satisfying pop when he opened it",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1272,
+			"sentence": "Bubble wrap provides a satisfying pop when squeezed",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1273,
+			"sentence": "The musician experimented with blending pop and jazz influences in the album",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1274,
+			"sentence": "Pop culture references are often woven into contemporary literature",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1275,
+			"sentence": "I am grateful for the support and kindness of my friends",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1276,
+			"sentence": "Expressing gratitude can positively impact your mental well-being",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1277,
+			"sentence": "She felt grateful for the opportunities that life had given her",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1278,
+			"sentence": "The community was grateful for the volunteers who helped during the crisis",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1279,
+			"sentence": "Teaching children to be grateful fosters a positive outlook on life",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1280,
+			"sentence": "In his acceptance speech, he expressed how grateful he was for the honor",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1281,
+			"sentence": "Taking a moment each day to be grateful can improve overall happiness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1282,
+			"sentence": "Gratefulness is a virtue that enhances personal relationships",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1283,
+			"sentence": "The survivors were grateful for the assistance they received after the disaster",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1284,
+			"sentence": "Even in challenging times, finding something to be grateful for can bring solace",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1285,
+			"sentence": "She baked delicious cookies using her grandma's homemade recipe",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1286,
+			"sentence": "The restaurant is known for its flavorful homemade pasta dishes",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1287,
+			"sentence": "The artisan market features a variety of homemade crafts and goods",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1288,
+			"sentence": "We prefer homemade gifts for a personal touch during the holidays",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1289,
+			"sentence": "The chef takes pride in serving homemade soups made from scratch",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1290,
+			"sentence": "The cozy kitchen smelled of homemade bread and fresh herbs",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1291,
+			"sentence": "The family gathered around the table for a meal of homemade pizza",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1292,
+			"sentence": "He surprised his friends with a homemade playlist of their favorite songs",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1293,
+			"sentence": "Homemade skincare products are gaining popularity for their natural ingredients",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1294,
+			"sentence": "The farmers' market is a great place to find homemade jams and preserves",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1295,
+			"sentence": "Sharing ideas and collaborating leads to innovation in the workplace",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1296,
+			"sentence": "The kindergarten teacher encourages sharing toys to promote cooperation",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1297,
+			"sentence": "Social media platforms provide a space for sharing thoughts and experiences",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1298,
+			"sentence": "Sharing responsibilities makes the team more effective and cohesive",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1299,
+			"sentence": "Siblings learn the value of sharing when growing up together",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1300,
+			"sentence": "The community center promotes a culture of sharing resources",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1301,
+			"sentence": "Sharing a meal with friends fosters a sense of camaraderie",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1302,
+			"sentence": "The online forum is a platform for sharing knowledge and expertise",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1303,
+			"sentence": "Environmentalists advocate for sharing sustainable practices for a greener world",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1304,
+			"sentence": "The concept of time-sharing allows multiple users to access a resource simultaneously",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1305,
+			"sentence": "Regular exercise is essential for maintaining a healthy body",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1306,
+			"sentence": "The detective discovered the body in the abandoned building",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1307,
+			"sentence": "Yoga is known for promoting flexibility and body awareness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1308,
+			"sentence": "She applied sunscreen to protect her body from the sun's rays",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1309,
+			"sentence": "The medical examination revealed no abnormalities in his body",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1310,
+			"sentence": "The athlete's rigorous training sculpted a strong and fit body",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1311,
+			"sentence": "The fashion designer created a dress that accentuates the body's natural curves",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1312,
+			"sentence": "The body of literature on the topic continues to grow with new research",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1313,
+			"sentence": "The dance performance showcased the expressive movements of the human body",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1314,
+			"sentence": "The spa offers treatments to relax and rejuvenate the body and mind",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1315,
+			"sentence": "Please check the level of the surface before placing the furniture",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1316,
+			"sentence": "The game has multiple difficulty levels to accommodate players of all skills",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1317,
+			"sentence": "We need to level the ground before starting construction on the new building",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1318,
+			"sentence": "The teacher adjusted the lesson to suit the students' comprehension level",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1319,
+			"sentence": "His calm demeanor helped level the tension in the room",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1320,
+			"sentence": "The water in the aquarium should be kept at a consistent level",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1321,
+			"sentence": "The company aims to level the playing field for employees with equal opportunities",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1322,
+			"sentence": "The app offers a level feature to ensure accurate alignment when taking photos",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1323,
+			"sentence": "The debate reached a new level of intensity as both sides presented their arguments",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1324,
+			"sentence": "To succeed in the project, we must level up our teamwork and communication",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1325,
+			"sentence": "Regular exercise is crucial for maintaining physical fitness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1326,
+			"sentence": "She enrolled in a fitness class to improve her overall health",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1327,
+			"sentence": "The fitness trainer created a personalized workout plan for the client",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1328,
+			"sentence": "The fitness center offers a variety of classes, from yoga to high-intensity training",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1329,
+			"sentence": "Running and swimming are excellent activities for cardiovascular fitness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1330,
+			"sentence": "Many people use fitness apps to track their workouts and progress",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1331,
+			"sentence": "The new gym equipment is designed to enhance muscular fitness",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1332,
+			"sentence": "A balanced diet is essential for achieving and maintaining fitness goals",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1333,
+			"sentence": "Fitness enthusiasts often prioritize both strength training and flexibility exercises",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1334,
+			"sentence": "Workplace wellness programs promote employee fitness and well-being",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1335,
+			"sentence": "The scientist was excited to discover a new species in the rainforest",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1336,
+			"sentence": "Exploring the ancient ruins, the archaeologist hoped to discover hidden secrets",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1337,
+			"sentence": "Traveling allows you to discover different cultures and traditions",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1338,
+			"sentence": "Reading is a great way to discover new ideas and perspectives",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1339,
+			"sentence": "After years of research, they finally made a groundbreaking discovery",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1340,
+			"sentence": "The young artist was thrilled to discover her talent for painting",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1341,
+			"sentence": "Technology continues to advance, helping us discover more about the universe",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1342,
+			"sentence": "Attending the conference provided an opportunity to discover cutting-edge innovations",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1343,
+			"sentence": "The detective worked diligently to discover the truth behind the mysterious case",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1344,
+			"sentence": "Everyday experiences can lead us to discover unexpected joys and challenges",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1345,
+			"sentence": "She was excited about the upcoming vacation to a tropical island",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1346,
+			"sentence": "The students were excited to learn about the fascinating scientific experiment",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1347,
+			"sentence": "The team was excited to celebrate their victory with a party",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1348,
+			"sentence": "Opening the gift, she couldn't hide her excited expression",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1349,
+			"sentence": "The crowd grew excited as the concert's start time approached",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1350,
+			"sentence": "The children were excitedly talking about their plans for the weekend",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1351,
+			"sentence": "The new restaurant in town generated excited buzz among food enthusiasts",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1352,
+			"sentence": "The announcement of the new product launch left customers excited to try it",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1353,
+			"sentence": "His excited laughter echoed through the amusement park as he rode the roller coaster",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1354,
+			"sentence": "The fans were excitedly waiting for their favorite band to take the stage",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1355,
+			"sentence": "The company plans to expand its operations to new markets",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1356,
+			"sentence": "Learning a new language can expand your horizons and cultural understanding",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1357,
+			"sentence": "Proper exercise can help expand lung capacity and improve respiratory health",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1358,
+			"sentence": "The city decided to expand the public transportation system to reduce traffic",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1359,
+			"sentence": "The teacher encouraged students to expand their essays with more details",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1360,
+			"sentence": "The business owner aims to expand the product line to attract a broader audience",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1361,
+			"sentence": "A good book can expand your knowledge and broaden your perspective",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1362,
+			"sentence": "The construction project will expand the capacity of the local airport",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1363,
+			"sentence": "The organization seeks to expand its outreach and impact in the community",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1364,
+			"sentence": "Engaging in diverse activities can help expand your skill set and interests",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1365,
+			"sentence": "The students created a video presentation for their class project",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1366,
+			"sentence": "We watched a funny video online that made us laugh out loud",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1367,
+			"sentence": "The documentary is a powerful video that sheds light on environmental issues",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1368,
+			"sentence": "She recorded a video message to share with her family on special occasions",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1369,
+			"sentence": "Video conferencing has become an essential tool for remote communication",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1370,
+			"sentence": "The vlogger uploaded a new video showcasing daily life in the city",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1371,
+			"sentence": "The tutorial video provided step-by-step instructions for the DIY project",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1372,
+			"sentence": "Video streaming platforms offer a wide range of content for diverse audiences",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1373,
+			"sentence": "The security camera captured the incident on video for later review",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1374,
+			"sentence": "The musician released a new music video to accompany the latest single",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1375,
+			"sentence": "The journalist wrote an article about the impact of climate change",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1376,
+			"sentence": "Students were asked to read an article and discuss it in class",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1377,
+			"sentence": "The magazine published an informative article on healthy eating",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1378,
+			"sentence": "He contributed an article to the local newspaper about community events",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1379,
+			"sentence": "Online articles often provide in-depth analysis on various topics",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1380,
+			"sentence": "The scientific journal featured an article on recent research findings",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1381,
+			"sentence": "The blog post was more than just an article; it was a personal reflection",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1382,
+			"sentence": "The company's website includes an article section with industry news",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1383,
+			"sentence": "Researchers collaborated to co-author an article for a prestigious journal",
+			"toTurkish": "",
+			"level": ""
+		},
+
+		{
+			"id": 1384,
+			"sentence": "Before the interview, she researched the company and read every article available",
 			"toTurkish": "",
 			"level": ""
 		}
